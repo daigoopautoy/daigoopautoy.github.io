@@ -1,6 +1,6 @@
 title: 我的博客
 description: 这是一个用 Jekyll 搭建的博客
-theme: minima  # 使用 GitHub Pages 支持的默认主题
+theme: jekyll-theme-cayman
 markdown: kramdown
 plugins:
   - jekyll-feed
