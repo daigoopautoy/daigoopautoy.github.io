@@ -1,6 +1,0 @@
-title: 我的博客
-description: 这是一个用 Jekyll 搭建的博客
-theme: jekyll-theme-cayman
-markdown: kramdown
-plugins:
-  - jekyll-feed
